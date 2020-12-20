@@ -1,0 +1,18 @@
+{"tasks": [
+    {
+        "completion": false,
+        "name": "task1"
+    },
+    {
+        "completion": false,
+        "name": "task2"
+    },
+    {
+        "completion": true,
+        "name": "task3"
+    },
+    {
+        "completion": false,
+        "name": "task4"
+    }
+]}
